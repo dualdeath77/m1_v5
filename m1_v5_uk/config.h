@@ -8,8 +8,6 @@
 #define HS_BAT_CABLE_PIN                    A7 // USB insertion detection pin
 #define HS_LED_BOOSTING_PIN                 D2 // LED BOOSTING
 
-#define RGB_MATRIX_TIMEOUT                  120000
-
 #define BAT_FULL_PIN                        A15
 #define BAT_FULL_STATE                      1
 
